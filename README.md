@@ -2,7 +2,8 @@
 <br>
 
 <div>
-<img height=100 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ricardocarmoo&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Ricardo's Language stats" />
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocarmoo&theme=&bg_color=00000000)
 </div>
 
 
