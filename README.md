@@ -1,15 +1,6 @@
 ### Hi there, I'm Ricardo 🤙 
 <br>
 
-<div>
-
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocarmoo&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-
-
-
 ### Languages
 <div>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
